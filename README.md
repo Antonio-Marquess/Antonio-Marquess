@@ -2,7 +2,7 @@
 
 Obrigado pela visita
 
-- 🔭 Atualmente trabalho na [Fit- Intituto de tecnologia](https://fit-tecnologia.org.br/instituto/nossa-historia) como Tester 2.
+- 🔭 Atualmente trabalho no [Fit- Intituto de tecnologia](https://fit-tecnologia.org.br/instituto/nossa-historia) como Tester 2.
 - 📚 Formado em Engenharia da Computação.
 - 👩‍💻 +1 anos de experiência em testes de software entre projetos web.
 - 🌱 Sempre em busca de ser uma pessoa e um profissional melhor.
