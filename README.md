@@ -21,7 +21,7 @@
  
 <div align="width"> 
 <a href = "mailto:antonio.marques.pf@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://https://www.linkedin.com/in/antonio-marques-53969511b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 40px" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/antonio-marques-53969511b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 40px" target="_blank"></a> 
 </div>
 
  ## [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Antonio-Marquess&bg_color=080808&color=66cdaa&line=7fffd4&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
