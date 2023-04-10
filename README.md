@@ -1,32 +1,42 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Olá, Eu sou o Antonio Marques!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
 
-Obrigado pela visita
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Antonio+Marques;I'm+43+years+old;I'm+from+Brazil;I+Graduated+Computer+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-- 🔭 Atualmente trabalho no [Fit- Intituto de tecnologia](https://fit-tecnologia.org.br/instituto/nossa-historia) como Tester 2.
-- 📚 Formado em Engenharia da Computação.
-- 👩‍💻 +1 anos de experiência em testes de software entre projetos web.
-- 🌱 Sempre em busca de ser uma pessoa e um profissional melhor.
+<div align="width">  
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Antonio-Marquess&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=7FFFD4&text_color=c9d1d9&bg_color=0d1117" alt="Antonio Marques github stats" /> 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Marquess&layout=compact&hide_border=true&title_color=00FFFF&text_color=7FFFD4&bg_color=0d1117" />
+</div> 
 
-
+### Main skills:
+![Cypress](https://img.shields.io/badge/-cypress-0D1117?style=for-the-badge&logo=cypress&logoColor=00FF7F)&nbsp;
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=Html5&logoColor=ffa500&labelColor=0D1117)&nbsp;
  
- <div style="display: inline_block"><br>
-  <img align="center" alt="Antonio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Antonio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Antonio-Js"     height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Antonio-HTML"   height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Antonio-CSS"    height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+### Studying in this moment:
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+ 
+
+<div align="width"> 
+<a href = "mailto:antonio.marques.pf@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://https://www.linkedin.com/in/antonio-marques-53969511b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 40px" target="_blank"></a> 
 </div>
- 
-   ##
- 
-<div> 
- <a href="https://https://www.linkedin.com/in/antonio-marques-53969511b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
- <a href = "mailto:contato@i.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
- <a href="https://" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
- <a href=" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/Antonio-Marquess/Antonio-Marquess/blob/output/github-contribution-grid-snake.svg)
- 
+
+ ## [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Antonio-Marquess&bg_color=2b2628&color=ffffff&line=ae88dd&point=2cdfe2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Antonio-Marquess}/count.svg" /></p> 
+<br>
 </div>
+
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
+
 
 
