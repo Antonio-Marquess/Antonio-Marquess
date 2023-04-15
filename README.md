@@ -4,7 +4,7 @@
 
 <div align="width">  
 <img height="195px" href="https://github.com/Antonio-Marquess/github-readme-stats" src="https://github-readme-stats.vercel.app/api/?username=Antonio-Marquess&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&title_color=00FFFF&icon_color=7FFFD4&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" alt="Antonio Marques github stats" />
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Antonio-Marquess&show_icons=true&layout=compact&hide_border=true&title_color=00FFFF&text_color=7FFFD4&bg_color=0d1117" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Antonio-Marquess&langs_count=6&show_icons=true&layout=compact&hide_border=true&title_color=00FFFF&text_color=7FFFD4&bg_color=0d1117" />
 </div> 
 
 ### Main skills:
