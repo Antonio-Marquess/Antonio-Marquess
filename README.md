@@ -38,7 +38,7 @@
 <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=202736&height=160&section=footer&text=Obrigado+por+me+visitar!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=80"/>
 
 
 
