@@ -50,12 +50,11 @@
 
 ---
 ### Studying in this moment:
-![K](https://img.shields.io/badge/--5849BE?style=for-the-badge&logo=K6&labelColor=5849BE)&nbsp;
-![Robotframework](https://img.shields.io/badge/-Robotframework-0D1117?style=for-the-badge&logo=robotframework&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-
+![K6](https://img.shields.io/badge/-K6-5849BE?style=for-the-badge&logo=K6&labelColor=5849BE)&nbsp;
+![Robotframework](https://img.shields.io/badge/-Robotframework-5849BE?style=for-the-badge&logo=Robotframework&labelColor=5849BE)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-5849BE?style=for-the-badge&logo=React.js&labelColor=5849BE)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-5849BE?style=for-the-badge&logo=Typescript&labelColor=5849BE)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-5849BE?style=for-the-badge&logo=Node.JS&labelColor=5849BE)&nbsp;
 
 ----
 ### 🔥 My Github Statistics:  
@@ -63,6 +62,4 @@
 <img height="195px" href="https://github.com/Antonio-Marquess/github-readme-stats"src="https://github-readme-stats.vercel.app/api/?username=Antonio-Marquess&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&title_color=00FFFF&icon_color=7FFFD4&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" alt="Antonio Marques github stats" />
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Antonio-Marquess&langs_count=6&show_icons=true&layout=compact&hide_border=true&title_color=00FFFF&text_color=7FFFD4&bg_color=0d1117" />
 </div>
- 
-----
 
