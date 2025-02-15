@@ -28,12 +28,14 @@
 ### 🛠 Test tool:
 ![Playwright](https://img.shields.io/badge/-Playwright-5849BE?style=for-the-badge&logo=playwright&labelColor=5849BE)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-5849BE?style=for-the-badge&logo=cypress&labelColor=5849BE)&nbsp;
+![Robotframework](https://img.shields.io/badge/-Robotframework-5849BE?style=for-the-badge&logo=Robotframework&labelColor=5849BE)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-5849BE?style=for-the-badge&logo=postman&labelColor=5849BE)&nbsp;
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=insomnia&labelColor=5849BE)&nbsp;
 
 ---
 ### 🛠 Languages:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-5849BE?style=for-the-badge&logo=JavaScript&labelColor=5849BE)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-5849BE?style=for-the-badge&logo=Typescript&labelColor=5849BE)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-5849BE?style=for-the-badge&logo=python&labelColor=5849BE)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-5849BE?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=5849BE)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-5849BE?style=for-the-badge&logo=Html5&logoColor=ffa500&labelColor=5849BE)&nbsp;
