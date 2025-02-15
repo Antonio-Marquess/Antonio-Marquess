@@ -54,7 +54,6 @@
 ### Studying in this moment:
 ![K6](https://img.shields.io/badge/-K6-5849BE?style=for-the-badge&logo=K6&labelColor=5849BE)&nbsp;
 ![Robotframework](https://img.shields.io/badge/-Robotframework-5849BE?style=for-the-badge&logo=Robotframework&labelColor=5849BE)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-5849BE?style=for-the-badge&logo=React.js&labelColor=5849BE)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-5849BE?style=for-the-badge&logo=Typescript&labelColor=5849BE)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-5849BE?style=for-the-badge&logo=Node.JS&labelColor=5849BE)&nbsp;
 
